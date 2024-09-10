@@ -17,7 +17,7 @@ I'm leaving out the specific commands to accomplish 1 and 3 as an exercise for y
 - [x] Create a short "about you" text
 - [x] Create a third level heading with the title "Hobbies"
 - [x] Under hobbies, create a bulleted or numbered list with some of your hobbies.
-- [X] Add an image to your README //added the image to my about/md file as it made more sense there
+- [X] Add an image to your README //added the image to my about.md file as it made more sense there
 - [x] Add a link to a website
 
 ### Taking it further
