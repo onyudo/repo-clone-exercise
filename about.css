@@ -1,0 +1,25 @@
+/* Basic Reset */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Container for content */
+.content {
+    height: 100vh;
+    text-align: left;
+    color: #333;
+    max-width: 80%;
+}
+
+img {
+    margin-top: 25px; 
+    max-width: 95%;
+}
+
+.hidden {
+    display: none;
+  }
