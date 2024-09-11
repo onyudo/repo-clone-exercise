@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #fa5e67;
 }
 
 /* Container for content */
@@ -23,3 +23,12 @@ img {
 .hidden {
     display: none;
   }
+
+a:any-link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
